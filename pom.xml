@@ -15,8 +15,8 @@
 	<name>Loan-App</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<maven.compiler.source>11</maven.compiler.source>
-		<maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.source>3.8.1</maven.compiler.source>
+		<maven.compiler.target>3.8.1</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -78,8 +78,8 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<source>11</source>
-					<target>11</target>
+					<source>3.8.1</source>
+					<target>3.8.1</target>
 				</configuration>
 			</plugin>
 		</plugins>
